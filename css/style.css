@@ -52,8 +52,12 @@
     padding-left: 15px;
 }
 
-.list .list-li {
+.list-item {
     margin-bottom: 20px;
+}
+
+.list-item:last-child {
+    margin-bottom: 0;
 }
 
 .images-no-figure {
