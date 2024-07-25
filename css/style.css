@@ -39,8 +39,12 @@
     border-radius: 20px;
     padding: 30px;
     background-color: #f3f3f3;
-    margin-bottom: 0;
+    margin-bottom: 40px;
     margin-top: 0;
+}
+
+.gray-box:last-child {
+    margin-bottom: 0;
 }
 
 .gray-box .text {
